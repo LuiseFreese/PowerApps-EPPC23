@@ -12,6 +12,12 @@ Welcome to the Power Apps Design, Performance, and Accessibility Masterclass! In
 6. How to measure accessibility
 7. Using visual hierarchy and layouts to make your applications more accessible and comprehensible
 
+## Prerequisites
+
+From a technical standpoint we will be building a normal Canvas App without Premium features. So there is no requirement for paid licenses.
+
+To follow this tutorial you should have build a few Canvas Apps and should be familiar with the main building blocks like galleries, buttons, etc.
+
 ## Coding exercises
 
 Throughout the workshop, we will be rebuilding the Twitter frontpage in Power App Canvas Apps as an example to illustrate the concepts we discuss.
@@ -29,6 +35,7 @@ The finished version will look something like this:
 ![Template](assets/finished_app.gif)
 
 While you should try to build everything on your own, this repository will assist you in building the app, when you are stuck.
+Furthermore there are side quests you can follow if you already finished the main tasks. The side quests are not discussed on this page, but the solution can be found in the reference app.
 
 You can also download the finished msapp-file as a reference in the [Download-folder](downloads)
 
