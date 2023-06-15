@@ -15,8 +15,8 @@ In the first exercise we will build a menu that resembles the twitter side menu.
 ## [Side quests overview](#user-content-side-quests)
 
 1. [throw in the real svg's](#user-content-throw-in-the-real-svgs)
-2. [toggle the svg's](#user-toggle-the-svgs)
-3. [add in the blue details in `home` and `notifications`](#user-content-add-in-the-blue-details-in-home-and-notifications`)
+2. [toggle the svg's](#user-content-toggle-the-svgs)
+3. [add in the blue details in `home` and `notifications`](#user-content-add-in-the-blue-details-in-`home`-and-`notifications`)
 
 ## Main quests
 
