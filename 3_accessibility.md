@@ -31,7 +31,7 @@ Take some time to actually try it out. Use the windows screen reader to let it r
 
 Go to the button and set the **FocusedBorderColor** to `Color.Gray` and the **FocusedBorderThickness** to `2`.
 
-Try to make sure navigating with `Tab` and `Shift-Tab` moves the focused border ud and down and selecting with `Enter` triggers your event.
+Try to make sure navigating with `Tab` and `Shift-Tab` moves the focused border up and down and selecting with `Enter` triggers your event.
 
 ![keyboard](assets/3_keyboard.gif)
 
