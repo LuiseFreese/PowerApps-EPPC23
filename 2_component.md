@@ -80,7 +80,7 @@ Note: If you completed the side quests of the first exercise you have to change 
 
 Now we need to change the **OnSelect** property of the button so we can freely change it without touching the component.
 
-We will use a behavior property for that (which are now called `Action` properties).
+We will use a behavior property for that (which are now called `Function` properties).
 
 The **Return data type** is not important, because we won't return data. But we will need to specify a parameter. We will call it **id** and define it as a `number`. We will pass the selected menu item id through this parameter.
 
