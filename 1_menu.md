@@ -168,7 +168,7 @@ Add this effect to the icons:
 
 ### Add in the blue details in `home` and `notifications`
 
-Add these (information alredy in the menu collection)
+Add these (information already in the menu collection)
 
 ![highlights](assets/1_highlights.png)
  
